@@ -1,6 +1,10 @@
 <h1 align="center">Hey! I'm alex :)</h1>
 <h3 align="center">🎓 I'm a 4th-year Cybersecurity Engineering student with a penchant for technology 🎓.</h3>
 
+<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/1aEY.gif" width="350"/>
+
+<h3 align="left">About me:</h3>
+
 - 💻 I’m currently working on **enhancing my skills in Full-Stack Development.**
 
 - 🌟 I have a burning passion for **design.**
@@ -10,8 +14,6 @@
 - 👥 Open to collaborations on **projects that fuel my curiosity.**
 
 - 😎 Fun fact **I know a lot about plants**
-
-- 📧 How to reach me **acarralt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,10 +39,12 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/acarralt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acarralt" height="30" width="40" /></a>
-</p>
 
+- 📧 Send me an <a href="mailto:acarralt@gmail.com">email</a>
+
+- 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
+
+<h3 align="left">Some more things: </h3>
 <details>
   <summary>GitHub Stats</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y3py3p&show_icons=true&locale=en&layout=compact" alt="y3py3p" /></p>
