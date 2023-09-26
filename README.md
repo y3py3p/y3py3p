@@ -5,13 +5,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 💻 I’m currently working on **enhancing my skills in Full-Stack Development.**
+- 💻 I’m currently working on **enhancing my skills in Full-Stack Development**
 
-- 🌟 I have a burning passion for **design.**
+- 🌟 I have a burning passion for **design**
 
-- 🌱 I'm always eager to **learn and explore new technologies.**
+- 🌱 I'm always eager to **learn and explore new technologies**
 
-- 👥 Open to collaborations on **projects that fuel my curiosity.**
+- 👥 Open to collaborations on **projects that fuel my curiosity**
 
 - 😎 Fun fact **I know a lot about plants**
 
