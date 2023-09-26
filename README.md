@@ -3,13 +3,11 @@
 
 <h3 align="left">About me:</h3>
 
-
-
 - 💻 I’m currently working on **enhancing my skills in Full-Stack Development**
 
-- 🌟 I have a burning passion for **design**
+<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/1aEY.gif" width="200"/>
 
-<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/ZdPH.gif" width="100"/>
+- 🌟 I have a burning passion for **design**
 
 - 🌱 I'm always eager to **learn and explore new technologies**
 
