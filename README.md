@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm alex :)</h1>
 <h3 align="center">🎓 I'm a 4th-year Cybersecurity Engineering student with a penchant for technology 🎓.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/1aEY.gif" width="350"/>
-
 <h3 align="left">About me:</h3>
+
+<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/MR5c.gif" width="200"/>
 
 - 💻 I’m currently working on **enhancing my skills in Full-Stack Development**
 
@@ -38,12 +38,14 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 -->
+
+
 <h3 align="left">Connect with me:</h3>
 
 - 📧 Send me an <a href="mailto:acarralt@gmail.com">email</a>
 
 - 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
-
+<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/>
 <h3 align="left">Some more things: </h3>
 <details>
   <summary>Most used languages</summary>
