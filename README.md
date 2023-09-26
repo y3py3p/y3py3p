@@ -3,11 +3,13 @@
 
 <h3 align="left">About me:</h3>
 
-<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/MR5c.gif" width="200"/>
+
 
 - 💻 I’m currently working on **enhancing my skills in Full-Stack Development**
 
 - 🌟 I have a burning passion for **design**
+
+<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/ZdPH.gif" width="100"/>
 
 - 🌱 I'm always eager to **learn and explore new technologies**
 
@@ -45,7 +47,7 @@
 - 📧 Send me an <a href="mailto:acarralt@gmail.com">email</a>
 
 - 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
-<img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/>
+<!-- <img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/> -->
 <h3 align="left">Some more things: </h3>
 <details>
   <summary>Most used languages</summary>
@@ -56,5 +58,6 @@
   <summary>GitHub Stats</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y3py3p&show_icons=true&locale=en" alt="y3py3p" /></p>
 </details>
+
 
 
