@@ -46,7 +46,7 @@
 
 <h3 align="left">Some more things: </h3>
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Most used languages</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y3py3p&show_icons=true&locale=en&layout=compact" alt="y3py3p" /></p>
 </details>
 
