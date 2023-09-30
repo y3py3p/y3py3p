@@ -47,7 +47,7 @@
 
 - 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
 
-- 🧐 Curious about my CV? It's available in both <a href="CV_AlejandraC_2023_Eng_Esp.pdf#page=2">English</a> and <a href="CV_AlejandraC_2023_Eng_Esp.pdf#page=1">Spanish</a>
+- 🧐 Curious about my CV? It's available in both <a href="CV_AlejandraC_2023_EngEsp.pdf#page=2">English</a> and <a href="CV_AlejandraC_2023_EngEsp.pdf#page=1">Spanish</a>
 <!-- <img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/> -->
 <h3 align="left">Some more things: </h3>
 <details>
