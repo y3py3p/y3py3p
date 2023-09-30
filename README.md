@@ -32,22 +32,18 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  
-  
 <!-- 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 -->
-
-
 <h3 align="left">Connect with me:</h3>
 
 - 📧 Send me an <a href="mailto:acarralt@gmail.com">email</a>
 
 - 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
 
-- 🧐 Curious about my CV? It's available in both <a href="CV_AlejandraC_2023_EngEsp.pdf#page=2">English</a> and <a href="CV_AlejandraC_2023_EngEsp.pdf#page=1">Spanish</a>
+- 🧐 Curious about my CV? It's available in both <a href="CV_AlejandraC_2023_Eng.pdf#page=2">English</a> and <a href="CV_AlejandraC_2023_Esp.pdf#page=1">Spanish</a>
 <!-- <img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/> -->
 <h3 align="left">Some more things: </h3>
 <details>
