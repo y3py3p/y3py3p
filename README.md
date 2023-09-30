@@ -46,6 +46,8 @@
 - 📧 Send me an <a href="mailto:acarralt@gmail.com">email</a>
 
 - 🔗 Take a look at my <a href="https://linkedin.com/in/acarralt">linkedIn</a>
+
+- 🧐 Curious about my CV? It's available in both English and Spanish
 <!-- <img align="right" alt="GIF" src="https://github.com/y3py3p/y3py3p/blob/main/YmvJ.gif" width="400"/> -->
 <h3 align="left">Some more things: </h3>
 <details>
